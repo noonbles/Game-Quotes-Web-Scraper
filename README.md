@@ -4,7 +4,7 @@
 <h2>Dependencies</h2>
  You're going to need JSDOM if you're going to attempt to run this code. Node.js doesn't inherently support the document object, so we'll have to use JSDOM as a surrogate.
  
- JSDOM Link: https://www.npmjs.com/package/jsdom
+JSDOM Link: https://www.npmjs.com/package/jsdom
  
 <h2>How do I use this for myself?</h2>
  Great question! Just clone the repository into some folder and run Scraper.js! You should get your results relatively quick, provided you have the dependencies listed above, and the website is still up.
